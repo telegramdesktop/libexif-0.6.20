@@ -1,0 +1,7 @@
+*.user
+*.sdf
+*.opensdf
+win32/Debug/
+win32/Release/
+win32/lib_exif/Debug/
+win32/lib_exif/Release/
