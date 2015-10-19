@@ -5,3 +5,5 @@ win32/Debug/
 win32/Release/
 win32/lib_exif/Debug/
 win32/lib_exif/Release/
+win32/.vs/
+win32/lib_exif.v12.suo

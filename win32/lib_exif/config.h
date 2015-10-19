@@ -97,7 +97,7 @@ typedef __int32 int32_t;
 
 typedef int ssize_t;
 #define  inline __inline
-#define snprintf   _snprintf
+//#define snprintf   _snprintf
 #undef ENABLE_NLS
 #undef HAVE_DCGETTEXT
 #undef HAVE_GETTEXT
